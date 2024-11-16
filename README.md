@@ -25,7 +25,7 @@ El juego consiste en emparejar a los monstruos y conseguir la mayor puntuación.
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 ## 📽️ App en funcionamiento (clic en la imagen para ver el vídeo)
-[![Vídeo demostrativo](https://img.youtube.com/vi/Ft7BzFZZlmk/hqdefault.jpg)](https://youtu.be/Ft7BzFZZlmk)
+[![Vídeo demostrativo](https://img.youtube.com/vi/OaEx6lQ0osU/hqdefault.jpg)](https://youtu.be/OaEx6lQ0osU)
 
 ## ©️ Créditos
 - Desarrollo: Selene Milanés.
