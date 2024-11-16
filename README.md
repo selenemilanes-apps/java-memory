@@ -19,10 +19,15 @@ El juego consiste en emparejar a los monstruos y conseguir la mayor puntuación.
 - Por cada pareja correcta: 2 puntos, a la cual se le sumará la racha multiplicada por 2.
 - Si emparejas dos cartas incorrectas, la racha se reinicia.
 
-## Tecnologías
+## 💻 Tecnologías
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+
+## ©️ Créditos
+- Desarrolladora: Selene Milanés.
+- Monstruos por [Tetiana Lazunova](https://www.istockphoto.com/es/vector/monstruos-de-dibujos-animados-lindo-personajes-halloween-monstruo-alegre-divertido-gm1009886320-272229571).
+- Imagen de fondo del menú por [Kira L. Nguyen](https://www.behance.net/gallery/29875189/Mobile-Game-Background-1).
 
 <br>
 <br>
