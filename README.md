@@ -25,7 +25,7 @@ El juego consiste en emparejar a los monstruos y conseguir la mayor puntuación.
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 ## ©️ Créditos
-- Desarrolladora: Selene Milanés.
+- Desarrollo: Selene Milanés.
 - Monstruos por [Tetiana Lazunova](https://www.istockphoto.com/es/vector/monstruos-de-dibujos-animados-lindo-personajes-halloween-monstruo-alegre-divertido-gm1009886320-272229571).
 - Imagen de fondo del menú por [Kira L. Nguyen](https://www.behance.net/gallery/29875189/Mobile-Game-Background-1).
 
