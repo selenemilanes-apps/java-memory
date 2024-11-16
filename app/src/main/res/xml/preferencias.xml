@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:icon="@drawable/theme"
+    android:key="Screen">
+
+    <PreferenceCategory android:title="@string/txt_usuario">
+
+        <EditTextPreference
+            android:hint="@string/hint_cambiarNickname"
+            android:icon="@drawable/alias"
+            android:iconSpaceReserved="false"
+            android:inputType="text|textCapCharacters"
+            android:key="@string/nickname_cambiado"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/txt_cambiarNickname" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:key="@string/mantener_sesion"
+            android:title="@string/txt_mantenerSesion" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/txt_temaTitulo">
+
+        <SwitchPreference
+            android:icon="@drawable/theme"
+            android:iconSpaceReserved="false"
+            android:key="@string/tema"
+            android:switchTextOff="@string/txt_temaLight"
+            android:switchTextOn="@string/txt_temaDark"
+            android:title="@string/txt_temaLight" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/txt_permisos">
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:key="@string/ubicacion"
+            android:title="@string/txt_ubicacion" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/txt_idioma">
+
+        <ListPreference
+            android:defaultValue="es"
+            android:entries="@array/idioma"
+            android:entryValues="@array/valoresIdiomas"
+            android:icon="@drawable/language"
+            android:key="@string/idioma_seleccionado"
+            android:title="@string/txt_selectIdioma" />
+    </PreferenceCategory>
+</PreferenceScreen>

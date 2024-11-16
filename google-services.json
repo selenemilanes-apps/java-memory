@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "102767036760",
+    "firebase_url": "https://memoryselene-default-rtdb.firebaseio.com",
+    "project_id": "memoryselene",
+    "storage_bucket": "memoryselene.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102767036760:android:e73536536b444c32763d2d",
+        "android_client_info": {
+          "package_name": "com.example.memory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDX91iX2DSH8WeXeS7VeRN4vDcJ1BnYNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

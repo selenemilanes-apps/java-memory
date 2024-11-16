@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Main Menu-->
+    <string name="app_name">Memory</string>
+    <string name="txt_gameTitle">MEMORY</string>
+    <string name="txt_start">PLAY</string>
+    <string name="txt_nickname">Nickname</string>
+    <string name="txt_ranking">RANKING</string>
+    <string name="txt_notificaciones">NOTIFICATIONS</string>
+    <string name="txt_settings">SETTINGS</string>
+
+    <!--Settings-->
+    <string name="txt_usuario">User</string>
+    <string name="txt_cambiarNickname">Change nickname</string>
+    <string name="hint_cambiarNickname">Enter a new nickname (max. 10)</string>
+    <string name="txt_mantenerSesion">Keep session started</string>
+    <string name="txt_temaTitulo">Appearance</string>
+    <string name="txt_temaLight">Light theme</string>
+    <string name="txt_temaDark">Dark theme</string>
+    <string name="txt_permisos">Permissions</string>
+    <string name="txt_ubicacion">Location</string>
+    <string name="txt_idioma">Language</string>
+    <string name="txt_selectIdioma">Select language</string>
+    <string name="txt_espanol">Español</string>
+    <string name="txt_catalan">Català</string>
+    <string name="txt_ingles">English</string>
+
+    <!--Settings guardadas (backend) -->
+    <string name="nickname_cambiado">NICKNAME_CAMBIADO</string>
+    <string name="nickname_actual">NICKNAME_ACTUAL</string>
+    <string name="mantener_sesion">SESION</string>
+    <string name="tema">TEMA</string>
+    <string name="ubicacion">UBICACION</string>
+    <string name="idioma_seleccionado">IDIOMA_SELECCIONADO</string>
+
+    <!--Juego-->
+    <string name="txt_puntuacion">Score:</string>
+    <string name="txt_racha">Streak:</string>
+    <string name="btn_volverAJugar">Play again</string>
+    <string name="btn_salir">Exit</string>
+    <string name="txt_empate">draw</string>
+
+    <!--Ranking-->
+    <string name="txt_highScores">HIGH SCORES</string>
+    <string name="txt_rank">RANK</string>
+    <string name="txt_name">NAME</string>
+    <string name="txt_score">SCORE</string>
+
+    <!--Base de datos-->
+    <string name="txt_bbddName">Partida</string>
+
+    <!--Keys (extras)-->
+    <string name="key_alias">KEY_ALIAS</string>
+
+    <!-- Mensajes toast -->
+    <string name="necesitas_alias_juego">Enter a nickname to play</string>
+    <string name="necesitas_alias_cambio">In order to change your alias you have to enter it on the menu screen</string>
+    <string name="cambio_alias_correcto">Nickname successfully changed</string>
+    <string name="alias_ya_existe">The entered alias already exists. Try another alias</string>
+    <string name="recordatorio_guardado">Reminder set</string>
+
+    <!--Alert dialog-->
+    <string name="txt_salirTitulo">Back to main menu?</string>
+    <string name="txt_salirMensaje">If you return to the main menu you will lose the points you have earned in this game.</string>
+    <string name="txt_confirmar">YES</string>
+    <string name="txt_negar">NO</string>
+    <string name="btn_doPositive_jugar">Jugar</string>
+    <string name="btn_doNegative_noJugar">No jugar</string>
+    <string name="btn_doPositive_finalizar">Finalizar</string>
+    <string name="btn_doNegative_cancelar">Cancelar</string>
+    <string name="txt_ganadorTitulo">You win!</string>
+    <string name="txt_perdedorTitulo">You lost!</string>
+    <string name="txt_empateTitulo">Draw!</string>
+    <string name="txt_ganadorMensaje">The winner is: </string>
+    <string name="txt_jugarMensaje">Play again?</string>
+
+    <!--Progress dialog-->
+    <string name="txt_esperandoContrincante">Waiting for opponent</string>
+    <string name="txt_oponenteSalePartida">Redirecting to the main menu. The opponent has left the game.</string>
+    <string name="txt_cierreConexion">Redirecting to the main menu. Connection has been lost.</string>
+
+    <!--Notificaciones-->
+    <string name="txt_notificacionTitulo">It\'s time to play</string>
+    <string name="txt_notificacionContenido">Wouldn\'t you like to see your name in the ranking?</string>
+    <string name="txt_nombreCanal">Reminders</string>
+    <string name="btn_guardar">Save</string>
+    <string name="txt_fecha">Select a date</string>
+    <string name="txt_hora">Select a time</string>
+
+    <!--Menu contextual-->
+    <string name="txt_generadorAlias">Nickname generator</string>
+    <string name="txt_generador_alias_masculino">Male</string>
+    <string name="txt_generador_alias_femenino">Female</string>
+    <string name="txt_generador_alias_aleatorio">Random</string>
+
+</resources>

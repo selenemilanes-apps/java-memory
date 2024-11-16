@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/black</item>
+    </style>
+
+    <style name="AppTheme.Light" parent="Theme.MaterialComponents.DayNight">
+        <!-- Estilos para el tema claro -->
+    </style>
+
+    <style name="AppTheme.Dark" parent="Theme.MaterialComponents.DayNight">
+        <!-- Estilos para el tema oscuro -->
+    </style>
+</resources>

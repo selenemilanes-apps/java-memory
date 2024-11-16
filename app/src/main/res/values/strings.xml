@@ -1,0 +1,95 @@
+<resources>
+    <!--Main Menu-->
+    <string name="app_name">Memory</string>
+    <string name="txt_gameTitle">MEMORY</string>
+    <string name="txt_start">JUGAR</string>
+    <string name="txt_nickname">Alias</string>
+    <string name="txt_ranking">CLASIFICACIÓN</string>
+    <string name="txt_notificaciones">NOTIFICACIONES</string>
+    <string name="txt_settings">CONFIGURACIÓN</string>
+
+    <!--Settings-->
+    <string name="txt_usuario">Usuario</string>
+    <string name="txt_cambiarNickname">Cambiar alias</string>
+    <string name="hint_cambiarNickname">Introduce un nuevo alias (máx. 10)</string>
+    <string name="txt_mantenerSesion">Mantener la sesión iniciada</string>
+    <string name="txt_temaTitulo">Apariencia</string>
+    <string name="txt_temaLight">Tema claro</string>
+    <string name="txt_temaDark">Tema oscuro</string>
+    <string name="txt_permisos">Permisos</string>
+    <string name="txt_ubicacion">Ubicación</string>
+    <string name="txt_idioma">Idioma</string>
+    <string name="txt_selectIdioma">Seleccionar idioma</string>
+    <string name="txt_espanol">Español</string>
+    <string name="txt_catalan">Català</string>
+    <string name="txt_ingles">English</string>
+
+    <!--Settings guardadas (backend) -->
+    <string name="nickname_cambiado" translatable="false">NICKNAME_CAMBIADO</string>
+    <string name="nickname_actual" translatable="false">NICKNAME_ACTUAL</string>
+    <string name="mantener_sesion" translatable="false">SESION</string>
+    <string name="tema" translatable="false">TEMA</string>
+    <string name="ubicacion" translatable="false">UBICACION</string>
+    <string name="idioma_seleccionado" translatable="false">IDIOMA_SELECCIONADO</string>
+
+    <!--Juego-->
+    <string name="txt_puntuacion">Puntos:</string>
+    <string name="txt_racha">Racha:</string>
+    <string name="btn_volverAJugar">Volver a jugar</string>
+    <string name="btn_salir">Salir</string>
+    <string name="txt_empate">empate</string>
+
+    <!--Ranking-->
+    <string name="txt_highScores">CLASIFICACIÓN</string>
+    <string name="txt_rank">POSICIÓN</string>
+    <string name="txt_name">NOMBRE</string>
+    <string name="txt_score">PUNTUACIÓN</string>
+
+    <!--Base de datos-->
+    <string name="txt_bbddName">Partida</string>
+
+    <!--Keys (extras)-->
+    <string name="key_alias">KEY_ALIAS</string>
+
+    <!-- Mensajes toast -->
+    <string name="necesitas_alias_juego">Introduce un alias para poder jugar</string>
+    <string name="necesitas_alias_cambio">Para poder cambiar tu alias tienes que introducirlo en la pantalla del menú</string>
+    <string name="cambio_alias_correcto">Alias cambiado correctamente</string>
+    <string name="alias_ya_existe">El alias introducido ya existe. Prueba con otro alias</string>
+    <string name="recordatorio_guardado">Recordatorio establecido</string>
+
+    <!--Alert dialog-->
+    <string name="txt_salirTitulo">¿Volver al menú principal?</string>
+    <string name="txt_salirMensaje">Si vuelves al menú principal perderás los puntos conseguidos en esta partida.</string>
+    <string name="txt_confirmar">SI</string>
+    <string name="txt_negar">NO</string>
+    <string name="btn_doPositive_jugar">Jugar</string>
+    <string name="btn_doNegative_noJugar">No jugar</string>
+    <string name="btn_doPositive_finalizar">Finalizar</string>
+    <string name="btn_doNegative_cancelar">Cancelar</string>
+    <string name="txt_ganadorTitulo">¡Has ganado!</string>
+    <string name="txt_perdedorTitulo">¡Has perdido!</string>
+    <string name="txt_empateTitulo">¡Empate!</string>
+    <string name="txt_ganadorMensaje">El ganador es: </string>
+    <string name="txt_jugarMensaje">¿Quieres volver a jugar?</string>
+
+    <!--Progress dialog-->
+    <string name="txt_esperandoContrincante">Esperando contrincante</string>
+    <string name="txt_oponenteSalePartida">Redirigiendo al menú principal. El contrincante ha salido de la partida.</string>
+    <string name="txt_cierreConexion">Redirigiendo al menú principal. Se ha perdido la conexión.</string>
+
+    <!--Notificaciones-->
+    <string name="txt_notificacionTitulo">Es hora de jugar</string>
+    <string name="txt_notificacionContenido">¿No te gustaría ver tu nombre en la clasificación?</string>
+    <string name="txt_nombreCanal">Recordatorios</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="txt_fecha">Selecciona una fecha</string>
+    <string name="txt_hora">Selecciona una hora</string>
+
+    <!--Menu contextual-->
+    <string name="txt_generadorAlias">Generador de alias</string>
+    <string name="txt_generador_alias_masculino">Masculino</string>
+    <string name="txt_generador_alias_femenino">Femenino</string>
+    <string name="txt_generador_alias_aleatorio">Aleatorio</string>
+
+</resources>

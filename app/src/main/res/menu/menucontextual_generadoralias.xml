@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/generador_masculino"
+        android:title="@string/txt_generador_alias_masculino" />
+    <item
+        android:id="@+id/generador_femenino"
+        android:title="@string/txt_generador_alias_femenino" />
+    <item
+        android:id="@+id/generador_aleatorio"
+        android:title="@string/txt_generador_alias_aleatorio" />
+</menu>
