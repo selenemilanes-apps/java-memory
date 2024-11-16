@@ -11,6 +11,7 @@ _Incluye:_
 - Generador y cambio de nicknames.
 - Notificaciones.
 - Modo claro y oscuro.
+- Feedback al usuario.
 
 ## 🎯 Objetivo del juego y funcionamiento
 El juego consiste en emparejar a los monstruos y conseguir la mayor puntuación.
