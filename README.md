@@ -4,9 +4,9 @@ Juego online de emparejamiento de cartas realizado en Android Studio con Java y 
 ## 📄 Descripción
 App realizada durante el segundo año de Grado Superior de Desarrollo de Aplicaciones Multiplataforma + Perfil videojuegos y ocio digital (DAMvi).
 
-_Incluye:_
+➕ _Incluye:_
 - Online 2 jugadores (_Firebase realtime_ y _database_).
-- BB.DD. también local.
+- Base de datos también local.
 - Ranking global por puntuación.
 - Generador y cambio de nicknames.
 - Notificaciones.
