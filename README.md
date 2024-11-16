@@ -23,3 +23,9 @@ El juego consiste en emparejar a los monstruos y conseguir la mayor puntuación.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+
+<br>
+<br>
+No dudes en contactarme para cualquier duda o inquietud <br>
+<a href="https://www.linkedin.com/in/selene-milanes-rodriguez/"><img alt="LinkedIn" src="https://img.shields.io/badge/Selene Milanés Rodríguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:selene.milanes@hotmail.com"> <img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
