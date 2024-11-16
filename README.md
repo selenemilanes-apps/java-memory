@@ -1,5 +1,5 @@
 #  <img src="app/src/main/res/drawable/memory_icon.png" alt="Icono Memory" width="45" height="45"> Monster memory <img src="app/src/main/res/drawable/memory_icon.png" alt="Icono Memory" width="45" height="45">
-Juego de cartas realizado en Android Studio con Java y Firebase (realtime y database) para la jugabilidad online.
+Juego online de emparejamiento de cartas realizado en Android Studio con Java y Firebase (realtime y database).
 
 ## 📄 Descripción
 App realizada durante el segundo año de Grado Superior de Desarrollo de Aplicaciones Multiplataforma + Perfil videojuegos y ocio digital (DAMvi).
