@@ -24,6 +24,9 @@ El juego consiste en emparejar a los monstruos y conseguir la mayor puntuación.
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
+## 📽️ App en funcionamiento (clic en la imagen para ver el vídeo)
+[![Vídeo demostrativo](https://img.youtube.com/vi/Ft7BzFZZlmk/hqdefault.jpg)](https://youtu.be/Ft7BzFZZlmk)
+
 ## ©️ Créditos
 - Desarrollo: Selene Milanés.
 - Monstruos por [Tetiana Lazunova](https://www.istockphoto.com/es/vector/monstruos-de-dibujos-animados-lindo-personajes-halloween-monstruo-alegre-divertido-gm1009886320-272229571).
